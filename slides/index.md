@@ -1,10 +1,6 @@
 
-# Ruby Can Do Computer Sciency THings
+# Computer Sciency Things in Ruby
 
-From the terminal, pop in:
+or "Let's Solve Some Project Euler Problems"
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+<small>Andrew Tomaka / [@atomaka](https://twitter.com/atomaka)</small>
