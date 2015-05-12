@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Ruby Can Do Computer Sciency THings",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "atomaka",
+    "githubRepository": "ruby-project-euler-talk"
+  }
+}
