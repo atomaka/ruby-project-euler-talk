@@ -13,6 +13,7 @@ module.exports = (grunt) ->
                     'slides/{,*/}*.{md,html}'
                     'js/*.js'
                     'css/*.css'
+                    'img/*'
                 ]
 
             index:
@@ -80,6 +81,7 @@ module.exports = (grunt) ->
                         'bower_components/**'
                         'js/**'
                         'css/*.css'
+                        'img/*'
                     ]
                     dest: 'dist/'
                 },{
